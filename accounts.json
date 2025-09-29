@@ -1,0 +1,15 @@
+{
+  "accounts": [
+    {
+      "label": "Account 1",
+      "token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzU5Njc0NTA2LCJpYXQiOjE3NTkwNjk3MDYsImp0aSI6IjNhOGFmZmI3Mjk2ZDQ2MjRiNDE0Y2NmZGQyOWZhOGM4IiwiYWNjb3VudF9pZCI6IjI1MDkxODAwMDE2MyIsImVtYWlsIjoicm9ueWhtMTAxMUBnbWFpbC5jb20iLCJpc19hY3RpdmUiOnRydWUsInZlcmlmaWVkX2VtYWlsIjp0cnVlLCJpc19kZW1vIjpmYWxzZX0.rqIl5zSBQ7V2tKG5jDyM9_72qJ5yRBqhqz08to6p_7PDuScBMO9h1eMpZK2KQfHCm2aNIkwuRItsXu2iFMJUiQ",
+      "signature": "63fa1ccf30fccf690cbb5876b7d6430d006d462e0621f4d64b8a0e21af99e585",
+      "nodes": [
+        {
+          "node_id_hash": "0xd416ba90580eb6f279bbc04a89594c65b7974c4c",
+          "signature": "63fa1ccf30fccf690cbb5876b7d6430d006d462e0621f4d64b8a0e21af99e585"
+        }
+      ]
+    }
+  ]
+}
